@@ -75,7 +75,7 @@ class SudokuGame {
 
     // ## STEP_7 ##
     // Update the body of this function to apply validation rules.
-    // The user input is correct if the number entered is unique on row / column and 3 x 3 area.
+    // The user input is correct if the number entered was not used before on row / column / 3 x 3 area.
     fun isUserInputCorrect(userInput: Int, row: Int, col: Int): Boolean {
         return solution[row][col] == userInput
     }
