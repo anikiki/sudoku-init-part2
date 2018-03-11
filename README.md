@@ -28,3 +28,13 @@ http://kotlinlang.org/docs/reference/
 
 ## Feedback
 Please help improve this workshop - https://goo.gl/4trAkm
+
+
+## Previous part of the workshop
+* Part 1:<br />
+https://github.com/anikiki/sudoku-init-part1
+
+
+## Next part of the workshop
+* Part 3:<br />
+https://github.com/anikiki/sudoku-init-part3
